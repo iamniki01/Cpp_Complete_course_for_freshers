@@ -1,6 +1,6 @@
 /***************************************************************
  * Description: This is to understand the "Inheritance " in c++.
- *    --  Object-oriented Programmin[OOPs]: rather than creating separate variables and functions,
+ *    --  Object-oriented Programming[OOPs]: rather than creating separate variables and functions,
  *                      we can also wrap these related data and functions in a single place (by creating objects).
  *                      This programming paradigm is known as object-oriented programming.
  *           -- Inheritance is one of the key features of Object-oriented programming in C++.

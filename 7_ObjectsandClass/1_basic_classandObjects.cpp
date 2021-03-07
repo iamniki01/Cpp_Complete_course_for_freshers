@@ -1,6 +1,6 @@
 /***************************************************************
  * Description: This is to understand the "class" in c++.
- *      Object-oriented Programmin[OOPs]: rather than creating separate variables and functions,
+ *      Object-oriented Programming[OOPs]: rather than creating separate variables and functions,
  *                      we can also wrap these related data and functions in a single place (by creating objects).
  *                      This programming paradigm is known as object-oriented programming.
  *             A class is a blueprint for the object. To define an enumeration, keyword class is used
